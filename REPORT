@@ -1,0 +1,4 @@
+// FORENSIC REPORT.
+
+Firstly we ran : vol -f ~/EPITECH/POC/cyber-forensic-Keuchnotkush/vmss.core windows.sessions.Sessions
+While analyzing the output, we identiied two users : PoC{BrunoDeChezPoC,PoC_W0rk$Hop}.
